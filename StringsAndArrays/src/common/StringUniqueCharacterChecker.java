@@ -13,7 +13,7 @@ public class StringUniqueCharacterChecker {
 	 * Time complexity : O(N2) Space complexity : O(1)
 	 * 
 	 * @param text
-	 * @return
+	 * @return boolean
 	 */
 	public static boolean isCharactersUniqueON2(String text) {
 
