@@ -8,6 +8,9 @@ import java.util.Arrays;
  * 
  * there are 3 versions of implementation are available in this class 
  * 
+ * input : abcxyz = true;
+ * input : abccab = false;
+ * 
  * @author mohamed.thaiseer
  *
  */
